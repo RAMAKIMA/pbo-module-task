@@ -1,0 +1,14 @@
+C:\VStudio\SimulasiGame\SimulasiGame\obj\Debug\net8.0\SimulasiGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\VStudio\SimulasiGame\SimulasiGame\obj\Debug\net8.0\SimulasiGame.AssemblyInfoInputs.cache
+C:\VStudio\SimulasiGame\SimulasiGame\obj\Debug\net8.0\SimulasiGame.AssemblyInfo.cs
+C:\VStudio\SimulasiGame\SimulasiGame\obj\Debug\net8.0\SimulasiGame.csproj.CoreCompileInputs.cache
+C:\VStudio\SimulasiGame\SimulasiGame\bin\Debug\net8.0\SimulasiGame.exe
+C:\VStudio\SimulasiGame\SimulasiGame\bin\Debug\net8.0\SimulasiGame.deps.json
+C:\VStudio\SimulasiGame\SimulasiGame\bin\Debug\net8.0\SimulasiGame.runtimeconfig.json
+C:\VStudio\SimulasiGame\SimulasiGame\bin\Debug\net8.0\SimulasiGame.dll
+C:\VStudio\SimulasiGame\SimulasiGame\bin\Debug\net8.0\SimulasiGame.pdb
+C:\VStudio\SimulasiGame\SimulasiGame\obj\Debug\net8.0\SimulasiGame.dll
+C:\VStudio\SimulasiGame\SimulasiGame\obj\Debug\net8.0\refint\SimulasiGame.dll
+C:\VStudio\SimulasiGame\SimulasiGame\obj\Debug\net8.0\SimulasiGame.pdb
+C:\VStudio\SimulasiGame\SimulasiGame\obj\Debug\net8.0\SimulasiGame.genruntimeconfig.cache
+C:\VStudio\SimulasiGame\SimulasiGame\obj\Debug\net8.0\ref\SimulasiGame.dll
