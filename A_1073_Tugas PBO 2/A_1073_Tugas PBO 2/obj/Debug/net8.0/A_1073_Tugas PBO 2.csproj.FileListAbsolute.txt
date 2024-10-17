@@ -1,0 +1,14 @@
+C:\VStudio\A_1073_Tugas PBO 2\A_1073_Tugas PBO 2\bin\Debug\net8.0\A_1073_Tugas PBO 2.exe
+C:\VStudio\A_1073_Tugas PBO 2\A_1073_Tugas PBO 2\bin\Debug\net8.0\A_1073_Tugas PBO 2.deps.json
+C:\VStudio\A_1073_Tugas PBO 2\A_1073_Tugas PBO 2\bin\Debug\net8.0\A_1073_Tugas PBO 2.runtimeconfig.json
+C:\VStudio\A_1073_Tugas PBO 2\A_1073_Tugas PBO 2\bin\Debug\net8.0\A_1073_Tugas PBO 2.dll
+C:\VStudio\A_1073_Tugas PBO 2\A_1073_Tugas PBO 2\bin\Debug\net8.0\A_1073_Tugas PBO 2.pdb
+C:\VStudio\A_1073_Tugas PBO 2\A_1073_Tugas PBO 2\obj\Debug\net8.0\A_1073_Tugas PBO 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\VStudio\A_1073_Tugas PBO 2\A_1073_Tugas PBO 2\obj\Debug\net8.0\A_1073_Tugas PBO 2.AssemblyInfoInputs.cache
+C:\VStudio\A_1073_Tugas PBO 2\A_1073_Tugas PBO 2\obj\Debug\net8.0\A_1073_Tugas PBO 2.AssemblyInfo.cs
+C:\VStudio\A_1073_Tugas PBO 2\A_1073_Tugas PBO 2\obj\Debug\net8.0\A_1073_Tugas PBO 2.csproj.CoreCompileInputs.cache
+C:\VStudio\A_1073_Tugas PBO 2\A_1073_Tugas PBO 2\obj\Debug\net8.0\A_1073_Tugas PBO 2.dll
+C:\VStudio\A_1073_Tugas PBO 2\A_1073_Tugas PBO 2\obj\Debug\net8.0\refint\A_1073_Tugas PBO 2.dll
+C:\VStudio\A_1073_Tugas PBO 2\A_1073_Tugas PBO 2\obj\Debug\net8.0\A_1073_Tugas PBO 2.pdb
+C:\VStudio\A_1073_Tugas PBO 2\A_1073_Tugas PBO 2\obj\Debug\net8.0\A_1073_Tugas PBO 2.genruntimeconfig.cache
+C:\VStudio\A_1073_Tugas PBO 2\A_1073_Tugas PBO 2\obj\Debug\net8.0\ref\A_1073_Tugas PBO 2.dll
